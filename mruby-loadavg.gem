@@ -1,0 +1,7 @@
+name: mruby-loadavg
+description: Loadavg class
+author: iberianpig
+website: https://github.com/iberianpig/mruby-loadavg
+protocol: git
+repository: https://github.com/iberianpig/mruby-loadavg.git
+license: MIT
